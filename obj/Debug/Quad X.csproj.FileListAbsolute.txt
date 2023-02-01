@@ -1,0 +1,136 @@
+C:\Users\User\source\repos\Quad X\bin\Debug\Quad X.exe.config
+C:\Users\User\source\repos\Quad X\bin\Debug\Quad X.exe
+C:\Users\User\source\repos\Quad X\bin\Debug\Quad X.pdb
+C:\Users\User\source\repos\Quad X\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad_X.Properties.Resources.resources
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.csproj.CopyComplete
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.exe
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.pdb
+C:\Users\User\source\repos\Quad X\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad_X.Main.resources
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad_X.Execute.resources
+C:\Users\User\source\repos\Quad X\bin\Debug\FastColoredTextBox.dll
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad X.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad_X.login.resources
+C:\Users\User\source\repos\Quad X\obj\Debug\Quad_X.AnimLogo.resources
+C:\Users\User\source\repos\Quad X\bin\Debug\KrnlAPI.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Quad X.exe.config
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Quad X.exe
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\DiscordRPC.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\FireSharp.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Guna.UI2.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\DiscordRPC.pdb
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\DiscordRPC.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.csproj.AssemblyReference.cache
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.csproj.SuggestedBindingRedirects.cache
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.AnimLogo.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.BuyPremium.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.Execute.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.login.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.Main.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.Profile.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.Properties.Resources.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad_X.register.resources
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.csproj.GenerateResource.cache
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.csproj.CoreCompileInputs.cache
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.csproj.CopyComplete
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.exe
+C:\Users\siyah\Desktop\ZeuS\Projeler\Visual Studio\Quad X\obj\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Quad X.exe.config
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Quad X.exe
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\Quad X\bin\Debug\DiscordRPC.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\FireSharp.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Guna.UI2.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\KrnlAPI.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\WeAreDevs_API.dll
+C:\Users\siyah\Desktop\Quad X\bin\Debug\DiscordRPC.pdb
+C:\Users\siyah\Desktop\Quad X\bin\Debug\DiscordRPC.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\siyah\Desktop\Quad X\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.csproj.AssemblyReference.cache
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.csproj.SuggestedBindingRedirects.cache
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Volume.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.AnimLogo.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Api_Confirguration.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.BuyPremium.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Execute.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.In_Game.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.login.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.MainMenu.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Profile.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Properties.Resources.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.register.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad_X.Settings.resources
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.csproj.GenerateResource.cache
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.csproj.CoreCompileInputs.cache
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.csproj.CopyComplete
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.exe
+C:\Users\siyah\Desktop\Quad X\obj\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\Null\bin\Debug\Quad X.exe.config
+C:\Users\siyah\Desktop\Null\bin\Debug\Quad X.exe
+C:\Users\siyah\Desktop\Null\bin\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\Null\bin\Debug\DiscordRPC.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\FireSharp.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\Guna.UI2.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\KrnlAPI.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\WeAreDevs_API.dll
+C:\Users\siyah\Desktop\Null\bin\Debug\DiscordRPC.pdb
+C:\Users\siyah\Desktop\Null\bin\Debug\DiscordRPC.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\siyah\Desktop\Null\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.csproj.AssemblyReference.cache
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.csproj.SuggestedBindingRedirects.cache
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Volume.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Splash.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Api_Confirguration.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.BuyPremium.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Execute.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.In_Game.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.login.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.MainMenu.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Profile.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Properties.Resources.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.register.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Settings.resources
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.csproj.GenerateResource.cache
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.csproj.CoreCompileInputs.cache
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.csproj.CopyComplete
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.exe
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad X.pdb
+C:\Users\siyah\Desktop\Null\obj\Debug\Quad_X.Customize.resources
