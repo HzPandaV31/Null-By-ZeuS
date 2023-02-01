@@ -1,0 +1,11 @@
+_G.Enabled = true
+
+
+while _G.Enabled == true do
+wait(0.1)
+   for i,v in pairs(workspace.Transfer.Collectibles:GetDescendants()) do
+if v:IsA("MeshPart") and v.Name == "CashObject" or v.Name == "HeartObject"  then
+        v.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+       end
+   end
+end

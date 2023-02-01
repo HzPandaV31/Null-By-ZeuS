@@ -1,0 +1,13 @@
+_G.Enabled = true
+
+
+while _G.Enabled == true do
+ wait()
+      for i,v in pairs(workspace.Transfer.Rings:GetDescendants()) do
+       if v:IsA("MeshPart") and v.Name == "Ring" then
+           wait()
+v.CanCollide = false
+        v.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+       end
+   end
+end

@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/obeseinsect/roblox/main/Games/Anime%20Fighters%20Sim/AFS.lua"))()
